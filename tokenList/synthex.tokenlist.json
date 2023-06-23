@@ -1,0 +1,369 @@
+{
+    "name": "Synthex",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "",
+    "timestamp": "",
+    "tokens": [
+        {
+            "chainId": 42161,
+            "id": "0x071106909271ae384179ac3c4b1b0dc5e3ea6d3f",
+            "name": "SyntheX Swedish Krona (Foreign Exchange)",
+            "symbol": "fSEK",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x0cd4242889eb8546d740058e0c07f7088a1a00ce",
+            "name": "SyntheX Euro (Foreign Exchange)",
+            "symbol": "fEUR",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x1273a2ab9a527b869d4e6b6f65dbc226bb3af91f",
+            "name": "SyntheX Swiss Franc (Foreign Exchange)",
+            "symbol": "fCHF",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x66796d2da581c5381371b1ba77bd19f52a27918d",
+            "name": "SyntheX Japanese Yen (Foreign Exchange)",
+            "symbol": "fJPY",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x828db72d046329a78a4004f922b655d47a9cc4e1",
+            "name": "SyntheX Pound Sterling (Foreign Exchange)",
+            "symbol": "fGBP",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x8348b81b9ed72f29e52027c349f30703b42c0110",
+            "name": "SyntheX Canadian Dollar (Foreign Exchange)",
+            "symbol": "fCAD",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x8a9e7607635144e89ca9424ff5b73390843217ab",
+            "name": "SyntheX US Dollar (Foreign Exchange)",
+            "symbol": "fUSD",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x95591569cf48e778ad5393b2acbcf848dc914e11",
+            "name": "SyntheX Singapore Dollar (Foreign Exchange)",
+            "symbol": "fSGD",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xae5b95d3bff370fc41fbdc5f802b6042ae5b5a71",
+            "name": "SyntheX Korean Won (Foreign Exchange)",
+            "symbol": "fKRW",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xf3b59b2dbc680caf0b75a3769bde100e6caf3927",
+            "name": "SyntheX Chinese Yuan (Foreign Exchange)",
+            "symbol": "fCNY",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x04bb7985fcb78db29f5749583ceb49b6c8b99575",
+            "name": "SyntheX Solana (Crypto Market)",
+            "symbol": "cSOL",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x0cafac7a8dff6fa0918646e533c1f5d858a30dc4",
+            "name": "SyntheX Bitcoin (Crypto Market)",
+            "symbol": "cBTC",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x118f57364e13fff167fc6a7b671811f163a75d3e",
+            "name": "SyntheX Cardano (Crypto Market)",
+            "symbol": "cADA",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x13537d891e9041c929842732164febec1c614dff",
+            "name": "SyntheX DogeCoin (Crypto Market)",
+            "symbol": "cDOGE",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x1f865deaa119f67d480c1019da71ed06fab18ce4",
+            "name": "SyntheX US Dollar (Crypto Market)",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x3ea9f2a3af4a6d6f8bdfb16877ed87b64b9acba0",
+            "name": "SyntheX Polygon (Crypto Market)",
+            "symbol": "cMATIC",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x4bcfe1cce9230d8b5e5a11ca1735bd2fdb69160a",
+            "name": "SyntheX Near Protocol (Crypto Market)",
+            "symbol": "cNEAR",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xa300cf5725d7aa16410942d759e3e71fcffc7024",
+            "name": "SyntheX Ripple (Crypto Market)",
+            "symbol": "cXRP",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xb072e3e2a609864a536d95f8f92cfcb2b69bfe29",
+            "name": "SyntheX ChainLink (Crypto Market)",
+            "symbol": "cLINK",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xdc39d2d5f6cb17f7cf690d8caef99603c8261eb0",
+            "name": "SyntheX Binance Coin (Crypto Market)",
+            "symbol": "cBNB",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xea7b64387a9b63744f49c7e0394ca1b6c1762bfa",
+            "name": "SyntheX Polkadot (Crypto Market)",
+            "symbol": "cDOT",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xfef62042c27b643f76e02c0cef1d0cb41f2c5c77",
+            "name": "SyntheX Ethereum (Crypto Market)",
+            "symbol": "cETH",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+            "name": "USD Coin (Arb1)",
+            "symbol": "USDC",
+            "decimals": 6,
+            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x7b571111daff9428f7563582242ed29e5949970e",
+            "name": "Lodestar USD Coin",
+            "symbol": "lUSDC",
+            "decimals": 8,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+        {
+            "chainId": 42161,
+            "id": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+            "name": "Arbitrum",
+            "symbol": "ARB",
+            "decimals": 18,
+            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
+            "feed": null
+        },
+
+
+
+
+
+
+        {
+            "chainId": 5001,
+            "id": "0x0db88ea2a19dc181b6084e9de84b81a616d666a2",
+            "name": "REAX Ripple (Crypto Market)",
+            "symbol": "cXRP",
+            "decimals": 18,
+            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
+            "feed": "0xbfaf7739cb6fe3e1c57a0ac08e1d931e9e6062d476fa57804e165ab572b5b621"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x4398c702b845584fca3adbbf1738f2c3cfb9fb5b",
+            "name": "REAX Ethereum (Crypto Market)",
+            "symbol": "cETH",
+            "decimals": 18,
+            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
+            "feed": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x66c32058d77e3aa90d94f5003f69d9c75acf7d6e",
+            "name": "REAX Binance Coin (Crypto Market)",
+            "symbol": "cBNB",
+            "decimals": 18,
+            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
+            "feed": "0xecf553770d9b10965f8fb64771e93f5690a182edc32be4a3236e0caaa6e0581a"
+        },
+        {
+            "chainId": 5001,
+            "id": "0xe49b5e1a76a9a081ca6be9ac31df63afc1814e2e",
+            "name": "REAX US Dollar (Crypto Market)",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
+            "feed": null
+        },
+        {
+            "chainId": 5001,
+            "id": "0xe70733321d6902fe6780e2e2d221d2c466a43a9c",
+            "name": "REAX Bitcoin (Crypto Market)",
+            "symbol": "cBTC",
+            "decimals": 18,
+            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
+            "feed": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b"
+        },
+        {
+            "id": "0x1561ccba861ee39552da5d703b629b1b23ee1899",
+            "chainId": 5001,
+            "name": "REAX US Dollar (Stock Exchange)",
+            "symbol": "sUSD",
+            "decimals": 18,
+            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
+            "feed": null
+        },
+        {
+            "id": "0x5536f3b573d99e5a0a586c79ac3c60b445a76639",
+            "chainId": 5001,
+            "name": "REAX Apple (Stock Exchange)",
+            "symbol": "sAAPL",
+            "decimals": 18,
+            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
+            "feed": "0xafcc9a5bb5eefd55e12b6f0b4c8e6bccf72b785134ee232a5d175afd082e8832"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x55ba0c762e736a16f7fe52daa38077bc55489610",
+            "name": "REAX Microsoft (Stock Exchange)",
+            "symbol": "sMSFT",
+            "decimals": 18,
+            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
+            "feed": "0x4e10201a9ad79892f1b4e9a468908f061f330272c7987ddc6506a254f77becd7"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x6cce41b9b30ca349723d36c3eb34ac37c0c28c33",
+            "name": "REAX Coinbase (Stock Exchange)",
+            "symbol": "sCOIN",
+            "decimals": 18,
+            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
+            "feed": "0xa29b53fbc56604ef1f2b65e89e48b0f09bb77b3fb890f4c70ee8cbd68a12a94b"
+        },
+        {
+            "chainId": 5001,
+            "id": "0xbcc4b49b5c75340c52f7e427302bd5e38363f09f",
+            "name": "REAX Google (Stock Exchange)",
+            "symbol": "sGOOGL",
+            "decimals": 18,
+            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
+            "feed": "0xabb1a3382ab1c96282e4ee8c847acc0efdb35f0564924b35f3246e8f401b2a3d"
+        }
+    ]
+}
