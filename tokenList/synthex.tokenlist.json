@@ -15,8 +15,7 @@
             "symbol": "fSEK",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -25,8 +24,7 @@
             "symbol": "fEUR",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -35,8 +33,7 @@
             "symbol": "fCHF",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -45,8 +42,7 @@
             "symbol": "fJPY",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -55,8 +51,7 @@
             "symbol": "fGBP",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -65,8 +60,7 @@
             "symbol": "fCAD",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -75,8 +69,7 @@
             "symbol": "fUSD",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -85,8 +78,7 @@
             "symbol": "fSGD",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -95,8 +87,7 @@
             "symbol": "fKRW",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -105,8 +96,7 @@
             "symbol": "fCNY",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -115,8 +105,7 @@
             "symbol": "cSOL",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -125,8 +114,7 @@
             "symbol": "cBTC",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -135,8 +123,7 @@
             "symbol": "cADA",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -145,8 +132,7 @@
             "symbol": "cDOGE",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -155,8 +141,7 @@
             "symbol": "cUSD",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -165,8 +150,7 @@
             "symbol": "cMATIC",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -175,8 +159,7 @@
             "symbol": "cNEAR",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -185,8 +168,7 @@
             "symbol": "cXRP",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -195,8 +177,7 @@
             "symbol": "cLINK",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -205,8 +186,7 @@
             "symbol": "cBNB",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -215,8 +195,7 @@
             "symbol": "cDOT",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -225,8 +204,7 @@
             "symbol": "cETH",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -235,8 +213,7 @@
             "symbol": "ETH",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": "ethereum"
         },
         {
             "chainId": 42161,
@@ -245,8 +222,7 @@
             "symbol": "DAI",
             "decimals": 18,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": "dai"
         },
         {
             "chainId": 42161,
@@ -255,8 +231,7 @@
             "symbol": "USDT",
             "decimals": 6,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": "tether"
         },
         {
             "chainId": 42161,
@@ -265,8 +240,7 @@
             "symbol": "USDC",
             "decimals": 6,
             "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": "usd-coin"
         },
         {
             "chainId": 42161,
@@ -275,8 +249,7 @@
             "symbol": "WBTC",
             "decimals": 8,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": "wrapped-bitcoin"
         },
         {
             "chainId": 42161,
@@ -285,8 +258,7 @@
             "symbol": "lUSDC",
             "decimals": 8,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": null
         },
         {
             "chainId": 42161,
@@ -295,15 +267,8 @@
             "symbol": "ARB",
             "decimals": 18,
             "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "feed": null,
-            "platform_id": "arbitrum-one"
+            "source": "arbitrum"
         },
-
-
-
-
-
-
         {
             "chainId": 5001,
             "id": "0x0db88ea2a19dc181b6084e9de84b81a616d666a2",
@@ -311,8 +276,7 @@
             "symbol": "cXRP",
             "decimals": 18,
             "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
-            "feed": "0xbfaf7739cb6fe3e1c57a0ac08e1d931e9e6062d476fa57804e165ab572b5b621",
-            "platform_id": null
+            "source": "0xbfaf7739cb6fe3e1c57a0ac08e1d931e9e6062d476fa57804e165ab572b5b621"
         },
         {
             "chainId": 5001,
@@ -321,8 +285,7 @@
             "symbol": "cETH",
             "decimals": 18,
             "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
-            "feed": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6",
-            "platform_id": null
+            "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
         },
         {
             "chainId": 5001,
@@ -331,8 +294,7 @@
             "symbol": "cBNB",
             "decimals": 18,
             "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
-            "feed": "0xecf553770d9b10965f8fb64771e93f5690a182edc32be4a3236e0caaa6e0581a",
-            "platform_id": null
+            "source": "0xecf553770d9b10965f8fb64771e93f5690a182edc32be4a3236e0caaa6e0581a"
         },
         {
             "chainId": 5001,
@@ -341,8 +303,7 @@
             "symbol": "cUSD",
             "decimals": 18,
             "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
-            "feed": null,
-            "platform_id": null
+            "source": null
         },
         {
             "chainId": 5001,
@@ -351,8 +312,7 @@
             "symbol": "cBTC",
             "decimals": 18,
             "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
-            "feed": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b",
-            "platform_id": null
+            "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b"
         },
         {
             "id": "0x1561ccba861ee39552da5d703b629b1b23ee1899",
@@ -361,8 +321,7 @@
             "symbol": "sUSD",
             "decimals": 18,
             "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
-            "feed": null,
-            "platform_id": null
+            "source": null
         },
         {
             "id": "0x5536f3b573d99e5a0a586c79ac3c60b445a76639",
@@ -371,8 +330,7 @@
             "symbol": "sAAPL",
             "decimals": 18,
             "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
-            "feed": "0xafcc9a5bb5eefd55e12b6f0b4c8e6bccf72b785134ee232a5d175afd082e8832",
-            "platform_id": null
+            "source": "0xafcc9a5bb5eefd55e12b6f0b4c8e6bccf72b785134ee232a5d175afd082e8832"
         },
         {
             "chainId": 5001,
@@ -381,8 +339,7 @@
             "symbol": "sMSFT",
             "decimals": 18,
             "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
-            "feed": "0x4e10201a9ad79892f1b4e9a468908f061f330272c7987ddc6506a254f77becd7",
-            "platform_id": null
+            "source": "0x4e10201a9ad79892f1b4e9a468908f061f330272c7987ddc6506a254f77becd7"
         },
         {
             "chainId": 5001,
@@ -391,8 +348,7 @@
             "symbol": "sCOIN",
             "decimals": 18,
             "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
-            "feed": "0xa29b53fbc56604ef1f2b65e89e48b0f09bb77b3fb890f4c70ee8cbd68a12a94b",
-            "platform_id": null
+            "source": "0xa29b53fbc56604ef1f2b65e89e48b0f09bb77b3fb890f4c70ee8cbd68a12a94b"
         },
         {
             "chainId": 5001,
@@ -401,8 +357,7 @@
             "symbol": "sGOOGL",
             "decimals": 18,
             "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
-            "feed": "0xabb1a3382ab1c96282e4ee8c847acc0efdb35f0564924b35f3246e8f401b2a3d",
-            "platform_id": null
+            "source": "0xabb1a3382ab1c96282e4ee8c847acc0efdb35f0564924b35f3246e8f401b2a3d"
         }
     ]
 }
