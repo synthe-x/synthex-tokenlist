@@ -358,6 +358,24 @@
             "decimals": 18,
             "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": "0xabb1a3382ab1c96282e4ee8c847acc0efdb35f0564924b35f3246e8f401b2a3d"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x0134369386a3aebcf0704946c0df89fe78fa2b50",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
+            "source": "0x41f3625971ca2ed2263e78573fe5ce23e13d2558ed3f2e47ab0f84fb9e7ae722"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x43d9c2dec2a83079641feafdabc4719bb362aacf",
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18,
+            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
+            "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
         }
     ]
 }
