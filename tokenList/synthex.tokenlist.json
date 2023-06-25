@@ -14,8 +14,7 @@
             "name": "SyntheX Swedish Krona (Foreign Exchange)",
             "symbol": "fSEK",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -23,8 +22,7 @@
             "name": "SyntheX Euro (Foreign Exchange)",
             "symbol": "fEUR",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -32,8 +30,7 @@
             "name": "SyntheX Swiss Franc (Foreign Exchange)",
             "symbol": "fCHF",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -41,8 +38,7 @@
             "name": "SyntheX Japanese Yen (Foreign Exchange)",
             "symbol": "fJPY",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -50,8 +46,7 @@
             "name": "SyntheX Pound Sterling (Foreign Exchange)",
             "symbol": "fGBP",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -59,8 +54,7 @@
             "name": "SyntheX Canadian Dollar (Foreign Exchange)",
             "symbol": "fCAD",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -68,8 +62,7 @@
             "name": "SyntheX US Dollar (Foreign Exchange)",
             "symbol": "fUSD",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -77,8 +70,7 @@
             "name": "SyntheX Singapore Dollar (Foreign Exchange)",
             "symbol": "fSGD",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -86,8 +78,7 @@
             "name": "SyntheX Korean Won (Foreign Exchange)",
             "symbol": "fKRW",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -95,8 +86,7 @@
             "name": "SyntheX Chinese Yuan (Foreign Exchange)",
             "symbol": "fCNY",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
-            "source": null
+            "source": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57"
         },
         {
             "chainId": 42161,
@@ -104,8 +94,7 @@
             "name": "SyntheX Solana (Crypto Market)",
             "symbol": "cSOL",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -113,8 +102,7 @@
             "name": "SyntheX Bitcoin (Crypto Market)",
             "symbol": "cBTC",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -122,8 +110,7 @@
             "name": "SyntheX Cardano (Crypto Market)",
             "symbol": "cADA",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -131,8 +118,7 @@
             "name": "SyntheX DogeCoin (Crypto Market)",
             "symbol": "cDOGE",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -140,8 +126,7 @@
             "name": "SyntheX US Dollar (Crypto Market)",
             "symbol": "cUSD",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -149,8 +134,7 @@
             "name": "SyntheX Polygon (Crypto Market)",
             "symbol": "cMATIC",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -158,8 +142,7 @@
             "name": "SyntheX Near Protocol (Crypto Market)",
             "symbol": "cNEAR",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -167,8 +150,7 @@
             "name": "SyntheX Ripple (Crypto Market)",
             "symbol": "cXRP",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -176,8 +158,7 @@
             "name": "SyntheX ChainLink (Crypto Market)",
             "symbol": "cLINK",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -185,8 +166,7 @@
             "name": "SyntheX Binance Coin (Crypto Market)",
             "symbol": "cBNB",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -194,8 +174,7 @@
             "name": "SyntheX Polkadot (Crypto Market)",
             "symbol": "cDOT",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -203,8 +182,7 @@
             "name": "SyntheX Ethereum (Crypto Market)",
             "symbol": "cETH",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -212,7 +190,6 @@
             "name": "Ethereum",
             "symbol": "ETH",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
             "source": "ethereum"
         },
         {
@@ -221,7 +198,6 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
             "source": "dai"
         },
         {
@@ -230,7 +206,6 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
             "source": "tether"
         },
         {
@@ -239,7 +214,6 @@
             "name": "USD Coin (Arb1)",
             "symbol": "USDC",
             "decimals": 6,
-            "oracle": "0x584838dda7a0f6fa6af680dfc4f58589c0a65e57",
             "source": "usd-coin"
         },
         {
@@ -248,7 +222,6 @@
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "decimals": 8,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
             "source": "wrapped-bitcoin"
         },
         {
@@ -257,8 +230,7 @@
             "name": "Lodestar USD Coin",
             "symbol": "lUSDC",
             "decimals": 8,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
-            "source": null
+            "source": "0x42e67c879de46086a175ec5c2760daf78f75045d"
         },
         {
             "chainId": 42161,
@@ -266,7 +238,6 @@
             "name": "Arbitrum",
             "symbol": "ARB",
             "decimals": 18,
-            "oracle": "0x42e67c879de46086a175ec5c2760daf78f75045d",
             "source": "arbitrum"
         },
         {
@@ -275,7 +246,6 @@
             "name": "REAX Ripple (Crypto Market)",
             "symbol": "cXRP",
             "decimals": 18,
-            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
             "source": "0xbfaf7739cb6fe3e1c57a0ac08e1d931e9e6062d476fa57804e165ab572b5b621"
         },
         {
@@ -284,7 +254,6 @@
             "name": "REAX Ethereum (Crypto Market)",
             "symbol": "cETH",
             "decimals": 18,
-            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
             "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
         },
         {
@@ -293,7 +262,6 @@
             "name": "REAX Binance Coin (Crypto Market)",
             "symbol": "cBNB",
             "decimals": 18,
-            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
             "source": "0xecf553770d9b10965f8fb64771e93f5690a182edc32be4a3236e0caaa6e0581a"
         },
         {
@@ -302,7 +270,6 @@
             "name": "REAX US Dollar (Crypto Market)",
             "symbol": "cUSD",
             "decimals": 18,
-            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
             "source": null
         },
         {
@@ -311,7 +278,6 @@
             "name": "REAX Bitcoin (Crypto Market)",
             "symbol": "cBTC",
             "decimals": 18,
-            "oracle": "0x548e12449f9d138b0d367695f6c3f41c328b52b5",
             "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b"
         },
         {
@@ -320,7 +286,6 @@
             "name": "REAX US Dollar (Stock Exchange)",
             "symbol": "sUSD",
             "decimals": 18,
-            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": null
         },
         {
@@ -329,7 +294,6 @@
             "name": "REAX Apple (Stock Exchange)",
             "symbol": "sAAPL",
             "decimals": 18,
-            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": "0xafcc9a5bb5eefd55e12b6f0b4c8e6bccf72b785134ee232a5d175afd082e8832"
         },
         {
@@ -338,7 +302,6 @@
             "name": "REAX Microsoft (Stock Exchange)",
             "symbol": "sMSFT",
             "decimals": 18,
-            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": "0x4e10201a9ad79892f1b4e9a468908f061f330272c7987ddc6506a254f77becd7"
         },
         {
@@ -347,7 +310,6 @@
             "name": "REAX Coinbase (Stock Exchange)",
             "symbol": "sCOIN",
             "decimals": 18,
-            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": "0xa29b53fbc56604ef1f2b65e89e48b0f09bb77b3fb890f4c70ee8cbd68a12a94b"
         },
         {
@@ -356,7 +318,6 @@
             "name": "REAX Google (Stock Exchange)",
             "symbol": "sGOOGL",
             "decimals": 18,
-            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": "0xabb1a3382ab1c96282e4ee8c847acc0efdb35f0564924b35f3246e8f401b2a3d"
         },
         {
@@ -365,7 +326,6 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
-            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": "0x41f3625971ca2ed2263e78573fe5ce23e13d2558ed3f2e47ab0f84fb9e7ae722"
         },
         {
@@ -374,7 +334,6 @@
             "name": "Ethereum",
             "symbol": "ETH",
             "decimals": 18,
-            "oracle": "0x2b564a0866365d68f0594234ab0bb40a62b0273a",
             "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
         }
     ]
