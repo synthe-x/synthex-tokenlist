@@ -349,7 +349,7 @@
             "id": "0x55f317247632d42584848064a0cc0190fe1f6c58",
             "name": "Mantle Token",
             "symbol": "MNT",
-            "decimals": 8,
+            "decimals": 18,
             "source": "0xd45b6d47bf43faa700e6f6fec4f8989fcc80eabb2f2eff862d7258d60026d1b5"
  
         }
