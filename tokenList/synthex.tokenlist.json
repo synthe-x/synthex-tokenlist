@@ -335,6 +335,23 @@
             "symbol": "ETH",
             "decimals": 18,
             "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x41fc4dfa6b2aafcc192335b309f64e3cf83c9ccd",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 8,
+            "source": "0x1fc18861232290221461220bd4e2acd1dcdfbc89c84092c93c18bdc7756c1588"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x55f317247632d42584848064a0cc0190fe1f6c58",
+            "name": "Mantle Token",
+            "symbol": "MNT",
+            "decimals": 8,
+            "source": "0xd45b6d47bf43faa700e6f6fec4f8989fcc80eabb2f2eff862d7258d60026d1b5"
+ 
         }
     ]
 }
