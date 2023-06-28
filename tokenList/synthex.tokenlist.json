@@ -247,7 +247,7 @@
             "symbol": "cXRP",
             "decimals": 18,
             "source": "0xbfaf7739cb6fe3e1c57a0ac08e1d931e9e6062d476fa57804e165ab572b5b621",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -256,7 +256,7 @@
             "symbol": "cETH",
             "decimals": 18,
             "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -265,7 +265,7 @@
             "symbol": "cBNB",
             "decimals": 18,
             "source": "0xecf553770d9b10965f8fb64771e93f5690a182edc32be4a3236e0caaa6e0581a",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -274,7 +274,7 @@
             "symbol": "cUSD",
             "decimals": 18,
             "source": null,
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -283,7 +283,7 @@
             "symbol": "cBTC",
             "decimals": 18,
             "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "id": "0x1561ccba861ee39552da5d703b629b1b23ee1899",
@@ -292,7 +292,7 @@
             "symbol": "sUSD",
             "decimals": 18,
             "source": null,
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "id": "0x5536f3b573d99e5a0a586c79ac3c60b445a76639",
@@ -301,7 +301,7 @@
             "symbol": "sAAPL",
             "decimals": 18,
             "source": "0xafcc9a5bb5eefd55e12b6f0b4c8e6bccf72b785134ee232a5d175afd082e8832",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -310,7 +310,7 @@
             "symbol": "sMSFT",
             "decimals": 18,
             "source": "0x4e10201a9ad79892f1b4e9a468908f061f330272c7987ddc6506a254f77becd7",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -319,7 +319,7 @@
             "symbol": "sCOIN",
             "decimals": 18,
             "source": "0xa29b53fbc56604ef1f2b65e89e48b0f09bb77b3fb890f4c70ee8cbd68a12a94b",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -328,7 +328,7 @@
             "symbol": "sGOOGL",
             "decimals": 18,
             "source": "0xabb1a3382ab1c96282e4ee8c847acc0efdb35f0564924b35f3246e8f401b2a3d",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -337,7 +337,7 @@
             "symbol": "USDC",
             "decimals": 6,
             "source": "0x41f3625971ca2ed2263e78573fe5ce23e13d2558ed3f2e47ab0f84fb9e7ae722",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -346,7 +346,7 @@
             "symbol": "ETH",
             "decimals": 18,
             "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6",
-            "isPermit": true,
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -354,8 +354,8 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 8,
-            "source": "0x1fc18861232290221461220bd4e2acd1dcdfbc89c84092c93c18bdc7756c1588"
-            "isPermit": true,
+            "source": "0x1fc18861232290221461220bd4e2acd1dcdfbc89c84092c93c18bdc7756c1588",
+            "isPermit": true
         },
         {
             "chainId": 5001,
@@ -364,7 +364,7 @@
             "symbol": "MNT",
             "decimals": 18,
             "source": "0x0e9ec6a3f2fba0a3df73db71c84d736b8fc1970577639c9456a2fee0c8f66d93",
-            "isPermit": true,
+            "isPermit": true
         }
     ]
 }
