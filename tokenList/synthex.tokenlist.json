@@ -242,7 +242,7 @@
         },
         {
             "chainId": 5001,
-            "id": "0x0db88ea2a19dc181b6084e9de84b81a616d666a2",
+            "id": "0x0faab23342312aca9c4fb40c01ae3e88ea2354d2",
             "name": "REAX Ripple (Crypto Market)",
             "symbol": "cXRP",
             "decimals": 18,
@@ -250,7 +250,7 @@
         },
         {
             "chainId": 5001,
-            "id": "0x4398c702b845584fca3adbbf1738f2c3cfb9fb5b",
+            "id": "0xc5463c3e462e730a7bf625569e96dd275d136d2d",
             "name": "REAX Ethereum (Crypto Market)",
             "symbol": "cETH",
             "decimals": 18,
@@ -258,15 +258,55 @@
         },
         {
             "chainId": 5001,
-            "id": "0x66c32058d77e3aa90d94f5003f69d9c75acf7d6e",
-            "name": "REAX Binance Coin (Crypto Market)",
+            "id": "0x3eb2feaa14c191395335ff9f195ed4be6d021961",
+            "name": "REAX Polkadot (Crypto Pool)",
+            "symbol": "cDOT",
+            "decimals": 18,
+            "source": "0x36032e522b810babd8e3148e9f0d588af9e95e93b97ffb58566b837fdbd31f7f"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x5f36c0188a8a783e07ed4712f6ebcd8b062cfc44",
+            "name": "REAX Dogecoin (Crypto Pool)",
+            "symbol": "cDOGE",
+            "decimals": 18,
+            "source": "0x31775e1d6897129e8a84eeba975778fb50015b88039e9bc140bbd839694ac0ae"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x8d8384e4347976070d51cfbf4de10733d4d76c72",
+            "name": "REAX Binance Coin (Crypto Pool)",
             "symbol": "cBNB",
             "decimals": 18,
             "source": "0xecf553770d9b10965f8fb64771e93f5690a182edc32be4a3236e0caaa6e0581a"
         },
         {
             "chainId": 5001,
-            "id": "0xe49b5e1a76a9a081ca6be9ac31df63afc1814e2e",
+            "id": "0xaba002dc6b7c71bee78834b68ce16b00cb362ab0",
+            "name": "REAX Cardano (Crypto Pool)",
+            "symbol": "cADA",
+            "decimals": 18,
+            "source": "0x73dc009953c83c944690037ea477df627657f45c14f16ad3a61089c5a3f9f4f2"
+        },
+        {
+            "chainId": 5001,
+            "id": "0xb24ff17a2e3a650924ac8e8ca3cb68c10c83e078",
+            "name": "REAX Litecoin (Crypto Pool)",
+            "symbol": "cLTC",
+            "decimals": 18,
+            "source": "0x997e0bf451cb36b4aea096e6b5c254d700922211dd933d9d17c467f0d6f34321"
+        },
+        {
+            "chainId": 5001,
+            "id": "0xdcd8310638233cd1beb4c0de6515b91732119d5c",
+            "name": "REAX Solana (Crypto Pool)",
+            "symbol": "cSOL",
+            "decimals": 18,
+            "source": "0xfe650f0367d4a7ef9815a593ea15d36593f0643aaaf0149bb04be67ab851decd"
+        },
+        {
+            "chainId": 5001,
+            "id": "0x10736f742c810be853ff30d8a0a238112875f23b",
             "name": "REAX US Dollar (Crypto Market)",
             "symbol": "cUSD",
             "decimals": 18,
@@ -274,7 +314,7 @@
         },
         {
             "chainId": 5001,
-            "id": "0xe70733321d6902fe6780e2e2d221d2c466a43a9c",
+            "id": "0x71020714cb8f12d20266371f741cd467f5a8f1eb",
             "name": "REAX Bitcoin (Crypto Market)",
             "symbol": "cBTC",
             "decimals": 18,
@@ -322,7 +362,7 @@
         },
         {
             "chainId": 5001,
-            "id": "0x0134369386a3aebcf0704946c0df89fe78fa2b50",
+            "id": "0xbe28691f9032333076f64e8cbd18beebd84dfc01",
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
@@ -330,7 +370,7 @@
         },
         {
             "chainId": 5001,
-            "id": "0x43d9c2dec2a83079641feafdabc4719bb362aacf",
+            "id": "0x86fb905bd14923fd66a5353d2cda955564ddb9aa",
             "name": "Ethereum",
             "symbol": "ETH",
             "decimals": 18,
@@ -346,11 +386,20 @@
         },
         {
             "chainId": 5001,
-            "id": "0x55f317247632d42584848064a0cc0190fe1f6c58",
+            "id": "0x5B156Dca04F775046064032E1F5E45Fd1FcCA1e0",
             "name": "Mantle Token",
             "symbol": "MNT",
             "decimals": 18,
             "source": "0x0e9ec6a3f2fba0a3df73db71c84d736b8fc1970577639c9456a2fee0c8f66d93"
+ 
+        },
+        {
+            "chainId": 5001,
+            "id": "0xa2eeff8fa7e7848c3ea6d689e143a0ac2545f6c0",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b"
  
         }
     ]
