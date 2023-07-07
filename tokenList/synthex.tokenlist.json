@@ -399,7 +399,7 @@
         },
         {
             "chainId": 5001,
-            "id": "0x5B156Dca04F775046064032E1F5E45Fd1FcCA1e0",
+            "id": "0x5b156dca04f775046064032e1f5e45fd1fcca1e0",
             "name": "Mantle Token",
             "symbol": "MNT",
             "decimals": 18,
