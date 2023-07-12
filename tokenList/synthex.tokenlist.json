@@ -325,6 +325,15 @@
             "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b",
             "isPermit": true
         },
+         {
+            "chainId": 5001,
+            "id": "0x25258e38c38a9a1a1e50b43d76b08821a5b227ea",
+            "name": "REAX Mantle (Crypto Pool)",
+            "symbol": "cMNT",
+            "decimals": 18,
+            "source": "0x0e9ec6a3f2fba0a3df73db71c84d736b8fc1970577639c9456a2fee0c8f66d93",
+            "isPermit": true
+        },
         {
             "id": "0x1561ccba861ee39552da5d703b629b1b23ee1899",
             "chainId": 5001,
