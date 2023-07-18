@@ -469,7 +469,7 @@
             "name": "REAX US Dollar (Crypto Pool)",
             "symbol": "cUSD",
             "decimals": 18,
-            "source": "0x0000000000000000000000000000000000000000000000000000000000000000"
+            "source": null
         },
         {
             "chainId": 5000,
