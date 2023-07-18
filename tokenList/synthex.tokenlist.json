@@ -422,7 +422,110 @@
             "symbol": "WBTC",
             "decimals": 8,
             "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b"
- 
+        },
+        {
+            "chainId": 5000,
+            "id": "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "source": "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43"
+        },
+        {
+            "chainId": 5000,
+            "id": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+            "name": "Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "source": "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "source": "0x2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x0f148bf7a48dc14ee17bb4f81708c1aef20b2397",
+            "name": "REAX Polkadot (Crypto Pool)",
+            "symbol": "cDOT",
+            "decimals": 18,
+            "source": "0xca3eed9b267293f6595901c734c7525ce8ef49adafe8284606ceb307afa2ca5b"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x5315586dc37ffce11c532be8073693814ca15170",
+            "name": "REAX Litecoin (Crypto Pool)",
+            "symbol": "cLTC",
+            "decimals": 18,
+            "source": "0x6e3f3fa8253588df9326580180233eb791e03b443a3ba7a1d892e73874e19a54"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x62959ad021402f48d0d8067bc5c4c03f63fceaa4",
+            "name": "REAX US Dollar (Crypto Pool)",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "source": "0x0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x8c1ec9edfcdd0aac3bf1f3a0d01612ee94bd8d6f",
+            "name": "REAX Cardano (Crypto Pool)",
+            "symbol": "cADA",
+            "decimals": 18,
+            "source": "0x2a01deaec9e51a579277b34b122399984d0bbf57e2458a7e42fecd2829867a0d"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x90412c41aabbbb771a996906dc413da9b7092077",
+            "name": "REAX Solana (Crypto Pool)",
+            "symbol": "cSOL",
+            "decimals": 18,
+            "source": "0xef0d8b6fda2ceba41da15d4095d1da392a0d2f8ed0c6c7bc0f4cfac8c280b56d"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x9fe08255c161045bbd84ac867514e17b3f66d5e8",
+            "name": "REAX Ripple (Crypto Pool)",
+            "symbol": "cXRP",
+            "decimals": 18,
+            "source": "0xec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8"
+        },
+        {
+            "chainId": 5000,
+            "id": "0xa84bdecd44e6cee1c588a3c97fcc4482831fde05",
+            "name": "REAX Ethereum (Crypto Pool)",
+            "symbol": "cETH",
+            "decimals": 18,
+            "source": "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace"
+        },
+        {
+            "chainId": 5000,
+            "id": "0xc6f2af0fd2fdb03b75f5256c68bbb6e59e3b739b",
+            "name": "REAX Binance Coin (Crypto Pool)",
+            "symbol": "cBNB",
+            "decimals": 18,
+            "source": "0x2f95862b045670cd22bee3114c39763a4a08beeb663b145d283c31d7d1101c4f"
+        },
+        {
+            "chainId": 5000,
+            "id": "0xf334aaf8e25d543c71c0db81beaec34283b88fa5",
+            "name": "REAX Dogecoin (Crypto Pool)",
+            "symbol": "cDOGE",
+            "decimals": 18,
+            "source": "0xdcef50dd0a4cd2dcc17e45df1676dcb336a11a61c69df7a0299b0150c672d25c"
+        },
+        {
+            "chainId": 5000,
+            "id": "0xf7dfe223e19701a514e78f3ce7ba98f2c5fbb5b2",
+            "name": "REAX Bitcoin (Crypto Pool)",
+            "symbol": "cBTC",
+            "decimals": 18,
+            "source": "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43"
         }
     ]
 }
