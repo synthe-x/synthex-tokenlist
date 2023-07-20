@@ -521,6 +521,22 @@
         },
         {
             "chainId": 5000,
+            "id": "0x8348b81b9ed72f29e52027c349f30703b42c0110",
+            "name": "REAX Mantle (Crypto Pool)",
+            "symbol": "cMNT",
+            "decimals": 18,
+            "source": "0x4e3037c822d852d79af3ac80e35eb420ee3b870dca49f9344a38ef4773fb0585"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+            "name": "Mantle",
+            "symbol": "MNT",
+            "decimals": 18,
+            "source": "0x4e3037c822d852d79af3ac80e35eb420ee3b870dca49f9344a38ef4773fb0585"
+        },
+        {
+            "chainId": 5000,
             "id": "0xf7dfe223e19701a514e78f3ce7ba98f2c5fbb5b2",
             "name": "REAX Bitcoin (Crypto Pool)",
             "symbol": "cBTC",
