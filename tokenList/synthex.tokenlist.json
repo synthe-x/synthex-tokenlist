@@ -542,6 +542,14 @@
             "symbol": "cBTC",
             "decimals": 18,
             "source": "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43"
+        },
+        {
+            "chainId": 5000,
+            "id": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "source": "0xeaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a"
         }
     ]
 }
