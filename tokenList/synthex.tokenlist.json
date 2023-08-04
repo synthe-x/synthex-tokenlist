@@ -325,7 +325,7 @@
             "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b",
             "isPermit": true
         },
-         {
+        {
             "chainId": 5001,
             "id": "0x25258e38c38a9a1a1e50b43d76b08821a5b227ea",
             "name": "REAX Mantle (Crypto Pool)",
@@ -413,7 +413,6 @@
             "symbol": "MNT",
             "decimals": 18,
             "source": "0x0e9ec6a3f2fba0a3df73db71c84d736b8fc1970577639c9456a2fee0c8f66d93"
- 
         },
         {
             "chainId": 5001,
@@ -550,6 +549,99 @@
             "symbol": "USDC",
             "decimals": 6,
             "source": "0xeaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a"
+        },
+        {
+            "chainId": 59140,
+            "id": "0x1acecc4a39e33215887da89502e502de0ca6d41f",
+            "name": "REAX Polkadot (Crypto Pool)",
+            "symbol": "cDOT",
+            "decimals": 18,
+            "source": "0x36032e522b810babd8e3148e9f0d588af9e95e93b97ffb58566b837fdbd31f7f"
+        },
+        {
+            "chainId": 59140,
+            "id": "0x4c7769ad52ccb2e30649cb7dca5581e0bf9060c9",
+            "name": "REAX Litecoin (Crypto Pool)",
+            "symbol": "cLTC",
+            "decimals": 18,
+            "source": "0x997e0bf451cb36b4aea096e6b5c254d700922211dd933d9d17c467f0d6f34321"
+        },
+        {
+            "id": "0x57edc329875967fc3d8081c3a893854f5b91376a",
+            "name": "REAX Binance Coin (Crypto Pool)",
+            "symbol": "cBNB",
+            "decimals": 18,
+            "source": "0xecf553770d9b10965f8fb64771e93f5690a182edc32be4a3236e0caaa6e0581a"
+        },
+        {
+            "id": "0x87e1106ce84e097d07ad9af05a06c412e84a15ab",
+            "name": "REAX US Dollar (Crypto Pool)",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "source": null
+        },
+        {
+            "id": "0x8b7273483531b19b8712a512379e95933cf0c68f",
+            "name": "REAX Solana (Crypto Pool)",
+            "symbol": "cSOL",
+            "decimals": 18,
+            "source": "0xfe650f0367d4a7ef9815a593ea15d36593f0643aaaf0149bb04be67ab851decd"
+        },
+        {
+            "id": "0xa2482d49aa52c9d6b1114ae724e1f6210b8846ed",
+            "name": "REAX Dogecoin (Crypto Pool)",
+            "symbol": "cDOGE",
+            "decimals": 18,
+            "source": "0x31775e1d6897129e8a84eeba975778fb50015b88039e9bc140bbd839694ac0ae"
+        },
+        {
+            "id": "0xaf96bfb9924e2527a851d41e4bec033143ed2122",
+            "name": "REAX Ripple (Crypto Pool)",
+            "symbol": "cXRP",
+            "decimals": 18,
+            "source": "0xbfaf7739cb6fe3e1c57a0ac08e1d931e9e6062d476fa57804e165ab572b5b621"
+        },
+        {
+            "id": "0xb5d5d5c20473238650c78a70a4cb9a72e97c0f46",
+            "name": "REAX Bitcoin (Crypto Pool)",
+            "symbol": "cBTC",
+            "decimals": 18,
+            "source": "0xf9c0172ba10dfa4d19088d94f5bf61d3b54d5bd7483a322a982e1373ee8ea31b"
+        },
+        {
+            "id": "0xb8395cab95d17f47e31839643cdbfbc3ef80a3d8",
+            "name": "REAX Ethereum (Crypto Pool)",
+            "symbol": "cETH",
+            "decimals": 18,
+            "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
+        },
+        {
+            "id": "0xbaa5b036fa9f261d921df6299e0eab4e078ad0dd",
+            "name": "REAX Cardano (Crypto Pool)",
+            "symbol": "cADA",
+            "decimals": 18,
+            "source": "0x73dc009953c83c944690037ea477df627657f45c14f16ad3a61089c5a3f9f4f2"
+        },
+        {
+            "id": "0x2c1b868d6596a18e32e61b901e4060c872647b6c",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "source": "0xca80ba6dc32e08d06f1aa886011eed1d77c77be9eb761cc10d72b7d0a2fd57a6"
+        },
+        {
+            "id": "0x8eb3ce00c491947ef3ca9461479ac1946f57a6e7",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "source": "0x41f3625971ca2ed2263e78573fe5ce23e13d2558ed3f2e47ab0f84fb9e7ae722"
+        },
+        {
+            "id": "0xe62e6c87e84d22ba82aec1ec76b3bca8a5975088",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 8,
+            "source": "0x1fc18861232290221461220bd4e2acd1dcdfbc89c84092c93c18bdc7756c1588"
         }
     ]
 }
